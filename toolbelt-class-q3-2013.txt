@@ -1,8 +1,3 @@
 Jason Noble, Instructor
-<<<<<<< HEAD
-Johnny Appleseed2, Student
-Ted Smith, Student
-=======
 Deb Frey, Student
 Ted Smith, Student
->>>>>>> AddedDeb Frey to the file
