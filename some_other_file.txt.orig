@@ -1,6 +1,9 @@
 Hi, This is some other file
 <<<<<<< HEAD
-This is the line that will cause the conflict.
-=======
 I am hungry for pizza
->>>>>>> changed something
+Now I have heartburn.
+Where are the tums?
+=======
+
+That I read
+>>>>>>> Added text
